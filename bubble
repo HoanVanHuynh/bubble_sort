@@ -15,3 +15,9 @@ for i in range(n): # need to check this range(n) again
 			arr[j+1] = arr[j]
 			arr[j] = temp
 print("Sorted Array: ", arr)
+
+
+//swapping.....
+int temp = x;
+x = y;
+y = temp;
